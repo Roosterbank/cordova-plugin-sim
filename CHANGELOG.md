@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.4.0
+
+- Android: removed all permissions related code iot (hopefully) mollify google
+- removed windows phone
+
 ## v1.3.3
 
 - Android: Adjust required API levels
